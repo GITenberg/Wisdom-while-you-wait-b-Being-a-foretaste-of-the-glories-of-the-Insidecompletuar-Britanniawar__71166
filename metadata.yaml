@@ -1,5 +1,8 @@
 _repo: Wisdom-while-you-wait-b-Being-a-foretaste-of-the-glories-of-the-Insidecompletuar-Britanniawar__71166
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71166-h/images/backcover.jpg
 creator:
   author:
     agent_name: Lucas, E. V. (Edward Verrall)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/818
     wikipedia: https://en.wikipedia.org/wiki/E._V._Lucas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71166#Wisdom-while-you-wait-b-Being-a-foretaste-of-the-glories-of-the-Insidecompletuar-Britanniawar_
 gutenberg_issued: '2023-07-11'
 identifiers:
   gutenberg: '71166'
